@@ -1,0 +1,83 @@
+body {
+    direction: rtl;
+    background-color: rgb(231, 231, 211);
+    font-family: 'Heebo', sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    
+}
+
+h1 {
+    font-size: 2em;
+    line-height: 1;    
+    font-weight: normal;
+    margin: 0;
+}
+
+h1.h1 {
+    font-size: 4em;
+    line-height: 0.5;    
+    font-weight: bolder;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.5em;
+    line-height: 1;
+    font-weight: bold;
+    padding: 3px 0;
+}
+
+h3 {
+    font-size: 1em;
+    line-height: 0;
+    font-weight: normal;
+}
+
+span.caption {
+    font-size: 0.8em;
+    line-height: 0%;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: darkblue;
+}
+
+div.article {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+
+}
+
+div.article-foot {
+    margin-top: 1em;
+    border-top: 3px solid darkblue;
+}
+
+.article-image {
+    float: left;
+    max-width: 320px;
+    max-width:width: 50%;
+    padding: 0em 1em 0em 1em;
+    margin: 0em 1em 0דem 1em;
+}
+
+img {
+    width: 100%;
+}
+
+.article-content {
+    text-align: justify;
+}
+p { 
+    margin: 1em;
+    border-right: 10px solid darkblue;
+padding: 1em;
+}
+
+div.credit {
+    font-size: 0.8em;
+}
